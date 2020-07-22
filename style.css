@@ -1,0 +1,71 @@
+.fb_header{
+
+    height: 84px;
+    background-color: #3b5998;
+    min-width: 980px;
+    color: white;
+    padding: 0px 184px 0px 150px;
+}
+#fb_img{
+    margin-top: 26px;
+}
+.user_form{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.form-controlsetting{
+    height: 25px!important ;
+}
+.account_recovery{
+    color: #9cb4d8;
+}
+.account_recovery:hover{
+    color: #9cb4d8;
+    text-decoration: underline;
+}
+input[type="submit"]{
+    background-color:#4267b2;
+    line-height: 0px;
+}
+section{
+    background-color: #f3f4f9;
+    height: 620px;
+    padding: 30px 154px;
+}
+#fb_global{
+    width: 535px;
+    height: 190px;
+
+}
+#globe_text{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 35px;
+}
+.user_registration{
+    margin-left: 75px;
+}
+#form_sub_text{
+    font-size: 19px;
+    color: #333;
+    margin-bottom: 30px;
+}
+select{
+
+    text-align: center;
+}
+#gender{
+    margin-top: 10px;
+    font-size: 18px;
+    color: gray;
+    
+}
+#gender_ops{
+    font-size: 20px;
+    font-weight: 400;
+}
+.dob{
+    font-size: 18px;
+    color: gray;
+}
